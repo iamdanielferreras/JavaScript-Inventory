@@ -13,3 +13,18 @@ button{
     font-size: 2em;
     margin-top: 20px;
 }
+th {
+   
+  
+}
+table{
+    width: 600px;
+    height: 10px;
+   border:1px solid black;
+}
+
+.div1{
+    display: flex;
+    
+    justify-content:center
+}
